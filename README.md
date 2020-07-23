@@ -1,5 +1,5 @@
 <h1> Projeto Google Glass</h1>
-<p>Estudo feito durante o Curso Web do Curso em Vídeo, simulando um site com artigos informativos sobre o Google Glass.</p> 
+<p>Estudo feito durante o Curso Web do Curso em Vídeo, simulando um site com artigos informativos sobre o Google Glass, um óculos smart com diversas funções descritas no site.</p> 
 
 <h3>Linguagens</h3>
   <ul>
